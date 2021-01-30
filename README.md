@@ -1,5 +1,5 @@
 # Face-Detection-MTCNN
-Implementation of face detection using Multi Task Cascaded Neural Network
+Implementation of face detection using Multi Task Cascaded Neural Network using tensorflow
 
 Pretty much same as [this](https://github.com/ipazc/mtcnn), just went through the code and implemented it after understanding what is going on
 
